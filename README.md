@@ -1,4 +1,4 @@
-Helios by HTML5 UP
+Parallelism by HTML5 UP
 ------------------
 
 This is the „Parallelism” theme from HTML5UP (http://html5up.net) and is adapted for Bolt.

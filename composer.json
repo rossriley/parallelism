@@ -12,5 +12,12 @@
             "name": "Derk Duit",
             "email": "derk@twokings.nl"
         }
-    ]
+    ],
+    "extra": {
+        "bolt-screenshots": [
+            "screenshots/home.png",
+            "screenshots/portfolio.png",
+            "screenshots/lightbox.png"
+        ]
+    }
 }
